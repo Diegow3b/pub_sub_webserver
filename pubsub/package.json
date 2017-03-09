@@ -1,0 +1,17 @@
+{
+  "name": "pubsub",
+  "version": "0.0.0",
+  "description": "node pub sub server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diegow3b",
+  "license": "MIT",
+  "dependencies": {
+    "axon": "^2.0.3",
+    "express": "3.0.0",
+    "redis": "^2.6.5",
+    "underscore": "^1.8.3"
+  }
+}
